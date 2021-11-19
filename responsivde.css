@@ -1,0 +1,81 @@
+@media only screen and (max-width:900px) {
+    .login-area input{
+        font-size: 20px;
+       
+        
+    }
+    .third-login input{
+        font-size: 16px;
+        margin-left: 2px;
+        
+    }
+    .middle-area{
+      margin-left: 5px;
+  
+    }
+    .login-area{
+        width: 10px;
+        margin-left: 50px;
+    }
+  .logo-area{
+      margin-left: -20px;
+  }
+  /* middle area start hare  */
+  
+.right-area {
+    
+    float: none;
+}
+.all-input{
+    width: 250%;
+}
+.left-area img {
+    width: 150%;
+    height: 300px;
+}
+.ppp p{
+    width: 200%;
+}
+
+}
+  @media only screen and (max-width:620px){
+  
+      .login-area{
+          width: 100%;
+          margin-left: 0;
+  
+      }
+      .login-area input{
+          width: 100%;
+          font-size: 14px;
+          display: block;
+        
+         
+      }
+    .logo-area{
+      margin-bottom: 27px;
+    }
+    .middle-area{
+      width:95%;
+    }
+      .secend-login{
+          float:none;
+      
+      }
+      .first-login{
+          float:none;
+          margin-right:2px;
+      
+      }
+      .third-login{
+          float:none;
+      }
+      .secend-login a{
+          font-size:18px;
+      }
+     .login-area input[type="submit"]{
+      width:60px;
+     }
+     
+  }
+  
