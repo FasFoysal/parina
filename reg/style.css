@@ -1,0 +1,47 @@
+body{
+    background-image: url(web-4105949_1280.jpg);
+    background-size:cover;
+    /* background-repeat: no-repeat ;
+             repeat-x , repeat-y , no-repeat  */
+}
+.from{
+    width:650px;
+    margin:100px auto;
+    padding:40px 20px ;
+    background:rgba(0, 0, 0, .4) ;
+
+
+    
+}
+.from input{
+    display:block;
+    width:100%;
+    font-size: 20px;
+    padding: 3px;
+    border: 3px solid yellow;
+    border-radius: 5px;
+  
+}
+.from label{
+
+    cursor:pointer;
+           /* zoom-in , zoom-out , help , wait */
+     display:block;
+     padding: 5px 0;
+     font-size:20px;
+     font-family:Arial;
+     }
+.from input[type=submit]{
+    width: 200px;
+    margin-top:20px;
+    cursor:pointer;
+    border-radius: 5px;
+}
+.from p {
+    font-size:17px;
+    font-family:tahoma;
+    color:#fff;
+}
+.from p a{
+    color:black;
+}

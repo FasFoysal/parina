@@ -1,8 +1,0 @@
-.singup-area{
-    background: linear-gradient(#ffffff, #D4D9E8);
-
-
-.username input:nth-child(2){
-    margin-left:5px;
-
-}
